@@ -1,0 +1,15 @@
+{
+  "name": "@ull-andrea-carlos/ull-andrea-carlos-triangle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --require should"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.3.0",
+    "should": "^11.2.1"
+  }
+}
