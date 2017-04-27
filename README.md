@@ -8,3 +8,6 @@
 ### Autores:
 * Andrea Rodríguez Rivarés: https://alu0100826999.github.io/
 * Carlos Castro García:  https://alu0100819847.github.io/
+
+### Documentación:
+* https://ull-esit-dsi-1617.github.io/creacion-de-paquetes-npm-andrea-carlos-35l1-p5-triangle/
